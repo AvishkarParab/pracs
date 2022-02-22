@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.cont{
+    border-radius: 20px;
+    background-color: aquamarine !important;
+}
